@@ -1,6 +1,6 @@
 # Person Count Classification from Delay-Doppler Data
 
-This [project]([https://duckduckgo.com](https://github.com/Foyceek/MLF_2026_HECL_Frantisek/blob/main/MLF_Project_final.ipynb) focuses on classifying the number of people in a room using delay-Doppler signal representations. The problem is formulated as an image classification task, where each sample is a 2D snapshot derived from 60 GHz signal reflections.
+This [project](https://github.com/Foyceek/MLF_2026_HECL_Frantisek/blob/main/MLF_Project_final.ipynb) focuses on classifying the number of people in a room using delay-Doppler signal representations. The problem is formulated as an image classification task, where each sample is a 2D snapshot derived from 60 GHz signal reflections.
 
 A convolutional neural network (ResNet-18 with transfer learning) is used to predict one of four classes:
 - 0 persons (machine only)
